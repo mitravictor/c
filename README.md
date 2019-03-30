@@ -1,2 +1,2 @@
-# c-
+# c
 Contains all my C programs
